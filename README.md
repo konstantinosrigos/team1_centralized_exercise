@@ -5,4 +5,6 @@
 
 Exercise description: https://coderefinery.github.io/git-collaborative/centralized/
 
-This is the README file of our repo.
+Changed this line: This is the README file of our repo.
+
+Added some text to this file
